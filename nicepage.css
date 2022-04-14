@@ -36353,20 +36353,15 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 72px;
-  margin: 0 auto;
+  min-height: 96px;
 }
 
 .u-header .u-menu-1 {
-  margin: 20px auto;
-}
-
-.u-header .u-nav-1 {
-  font-size: 1rem;
+  margin: 30px auto;
 }
 
 .u-header .u-nav-2 {
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 
 
