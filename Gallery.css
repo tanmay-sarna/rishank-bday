@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(210deg, black, white);
+  background-image: linear-gradient(210deg, #41807c, #b3b3b3);
 }
 
 .u-section-1 .u-sheet-1 {
@@ -7,6 +7,7 @@
 }
 
 .u-section-1 .u-text-1 {
+  font-family: Aclonica;
   margin: 60px auto 0;
 }
 
@@ -44,6 +45,32 @@
   padding: 10px;
 }
 
+.u-section-1 .u-carousel-item-4 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-back-image-4 {
+  object-position: 50% 18.64%;
+}
+
+.u-section-1 .u-over-slide-4 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-1 .u-carousel-item-5 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-back-image-5 {
+  object-position: 0% 50%;
+}
+
+.u-section-1 .u-over-slide-5 {
+  min-height: 100px;
+  padding: 10px;
+}
+
 .u-section-1 .u-carousel-thumbnails-1 {
   padding-top: 10px;
 }
@@ -54,6 +81,16 @@
 }
 
 .u-section-1 .u-carousel-thumbnail-2 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-1 .u-carousel-thumbnail-1 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-1 .u-carousel-thumbnail-1 {
   width: 100px;
   height: 100px;
 }
@@ -88,5 +125,10 @@
     margin-right: initial;
     margin-left: initial;
     width: auto;
+  }
+
+  .u-section-1 .u-carousel-thumbnail-2 {
+    width: 60px;
+    height: 60px;
   }
 }
