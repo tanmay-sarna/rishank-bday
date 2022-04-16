@@ -58,14 +58,15 @@
 }
 
 .u-section-2 .u-group-1 {
-  min-height: 576px;
-  width: 625px;
+  min-height: 471px;
+  width: 551px;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 489px -31px 37px auto;
+  height: auto;
+  margin: 546px -31px 60px auto;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -78,7 +79,7 @@
   font-family: Ubuntu, sans-serif;
   text-transform: none;
   font-weight: 400;
-  margin: 105px 0 0;
+  margin: 48px 0 0;
 }
 
 .u-section-2 .u-btn-1 {
@@ -97,6 +98,7 @@
   border-style: none;
   text-transform: uppercase;
   letter-spacing: 3px;
+  font-weight: normal;
   margin: 59px auto 0 0;
   padding: 14px 31px 15px 29px;
 }
@@ -106,12 +108,12 @@
     min-height: 909px;
   }
 
-  .u-section-2 .u-text-1 {
-    font-size: 3.4375rem;
+  .u-section-2 .u-group-1 {
+    height: auto;
   }
 
-  .u-section-2 .u-btn-2 {
-    font-weight: normal;
+  .u-section-2 .u-text-1 {
+    font-size: 3.4375rem;
   }
 }
 
@@ -136,11 +138,6 @@
     min-height: 522px;
   }
 
-  .u-section-2 .u-group-1 {
-    width: 540px;
-    margin-right: 0;
-  }
-
   .u-section-2 .u-text-1 {
     font-size: 3rem;
   }
@@ -152,20 +149,29 @@
   }
 
   .u-section-2 .u-sheet-1 {
-    min-height: 329px;
+    min-height: 1102px;
   }
 
   .u-section-2 .u-group-1 {
     width: 340px;
+    min-height: 369px;
+    margin-top: 490px;
+    margin-right: -18px;
   }
 
   .u-section-2 .u-container-layout-1 {
     padding-left: 20px;
     padding-right: 20px;
+    padding-bottom: 28px;
   }
 
   .u-section-2 .u-text-1 {
     font-size: 1.875rem;
+    margin-top: 4px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 30px;
   }
 } .u-section-3 {
   background-image: none;
