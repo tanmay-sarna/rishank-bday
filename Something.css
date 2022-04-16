@@ -43,9 +43,15 @@
 
   .u-section-1 .u-video-1 {
     height: 190px;
-    margin-top: 71px;
+    margin-top: 124px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 14px;
+    margin-left: auto;
   }
 }
